@@ -1,0 +1,85 @@
+
+Resources list for P3 FEWD 2015 Cohort 2
+
+...cont'd
+
+This was all new to me.  I have practically zero background in programming.  I spent some time back in 1999 
+
+playing with HTML and selecting "view source" code to learn a few HTML tags like <br>, , <a = href, bold and italic.
+
+
+
+For the first project 1 I finished the video lessons and then spent a ton of time in the forums writing and re-writing
+
+the HTML code.  Once I figured out the CSS tweaks were the key to getting my mockup page to get more in line
+
+I retuned my CSS and finished the project.  Then I validated CSS and HTML, met with my instructor 
+Jee Kang 
+and submitted my project when she gave me the go ahead.   
+
+
+
+I was convinced everyone else was way ahead of me since some people were on P3 and P4 and I was still on P1.
+
+But I believe some people are only working on the nanodegree and don't work 50 hour a week full time jobs 
+
+while trying to make time to study too like I have to. I try to stay positive!
+
+
+
+For P2 i started out on Git and figured out basic navigation without having to take the entire course.
+
+I registered my github and completed the Javascript Basics and Intro to JQuery courses.
+
+I found most of the items very confusing and there were missing parts in the videos to the solutions
+
+James and Cameron were arriving at at the end of the lession.  Several times they listed a typo or problem
+
+with their code in the solution.  I reported a couple of issues as well like my finding ".splice" instead
+
+of.slice in the first .replace quiz.  Its a different command altogether!  My instructor Jee Kang was very helpful 
+and available for me...just an email away.  I really appreciate her help. She recommended I take the 
+Code Academy classes on Javascript and they really helped
+
+For P3 I filled a binder full of notes from the speaker and referenced them a lot.  The entire discussion of "this"
+really helped and I was able to predict what was referenced as "this" most of the time..thanks to my copious notes.  
+I met with my instrucor Jee Kang who is always good at breaking up the assignments into a simple way that
+I can understand and this one had me lost so she broke it down and explained what my assignment consisted of in 
+several sections.  She also provided a link to collision detection since this was not covered in the course.
+http://blog.sklambert.com/html5-canvas-game-2d-collision-detection.  She said otehr students found it useful.
+She also recommended I take the Code Academy course on OOJS and it really helped fill a lot of gaps.
+
+
+
+My resources for P3 included
+
+1.  Course videos for "Object Oriented JavaScript" and "Intro to Canvas" fron Udacity.
+
+2.  Mozilla Developer Network  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
+	also this one  https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas
+3.  Purchased and read tke book "Javascript, just the Basics" By Michael J. Young.
+
+4.  Read the book "Eloquent Javascript" online at http://eloquentjavascript.net/
+
+5.  Consulted the Google Developers Tutorial https://developers.google.com/maps/documentation/javascript/tutorial
+
+6.  Watched several Office Hours Video from Mark at Google Hangouts for P3 Questions and Answers.
+7.  Got a few tips from some friends and family members who are web developers.  
+
+8.  0ne of them wants to complete the nanodegree FEWD himself. 
+
+9.  HTML Validator.
+ http://validator.w3.org/
+10. CSS Validator.
+ http://jigsaw.w3.org/css-validator/
+11. CSS Alamanac link from P1.
+12. Referenced the online book JavaScript: The Definitive Guide, 6th Edition http://it-ebooks.info/book/416/
+13. Purchased the book JavaScript: The Definitive Guide, 6th Edition in paperback format
+14. Link to collision detection.  http://blog.sklambert.com/html5-canvas-game-2d-collision-detection
+15. Frogger Game:  Getting Started Documents on Google  
+	https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/edit
+16. Code Academy JS and OOJS Courses
+17.  http://www.ibm.com/developerworks/library/wa-html5-game8/index.html
+
+
